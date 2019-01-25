@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfIntegration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Integration Code="Logstar.businesslogc.Customer1.Save" SqlKey="getcustomerxml1" ApiAddress="http://localhost:1232/api/Customer1" />
+  <Integration Code="Logstar.businesslogc.Customer2.Save" SqlKey="getcustomerxml2" ApiAddress="http://localhost:1232/api/Customer2" />
+  <Integration Code="Logstar.businesslogc.Customer3.Save" SqlKey="getcustomerxml3" ApiAddress="http://localhost:1232/api/Customer3" />
+  <Integration Code="Logstar.businesslogc.Customer4.Save" SqlKey="getcustomerxml4" ApiAddress="http://localhost:1232/api/Customer4" />
+  <Integration Code="Logstar.businesslogc.Customer5.Save" SqlKey="getcustomerxml5" ApiAddress="http://localhost:1232/api/Customer5" />
+</ArrayOfIntegration>

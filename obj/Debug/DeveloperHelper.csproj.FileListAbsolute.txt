@@ -1,0 +1,14 @@
+C:\D-Drive\Projects\Helper\DeveloperHelper\bin\Debug\DeveloperHelper.exe.config
+C:\D-Drive\Projects\Helper\DeveloperHelper\bin\Debug\DeveloperHelper.exe
+C:\D-Drive\Projects\Helper\DeveloperHelper\bin\Debug\DeveloperHelper.pdb
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Form1.resources
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Properties.Resources.resources
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.csproj.GenerateResource.Cache
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.csproj.CoreCompileInputs.cache
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.exe
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.pdb
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Form2.resources
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Form3.resources
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Form4.resources
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.csprojAssemblyReference.cache
+C:\D-Drive\Projects\Helper\DeveloperHelper\obj\Debug\DeveloperHelper.Form5.resources
