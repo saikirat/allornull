@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperHelper", "DeveloperHelper.csproj", "{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebHelper", "..\WebHelper\", "{BBF9E044-D9EB-4994-9C95-2E83B990D243}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
@@ -69,18 +67,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug.Ora|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug.Ora|Any CPU.Build.0 = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug.Ora|x86.ActiveCfg = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug.Ora|x86.Build.0 = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Debug|x86.Build.0 = Debug|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Release|x86.ActiveCfg = Release|Any CPU
-		{2F3DA9D4-C33D-456C-A7FF-6E6D0FDB4E0E}.Release|x86.Build.0 = Release|Any CPU
 		{BBF9E044-D9EB-4994-9C95-2E83B990D243}.Debug.Ora|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBF9E044-D9EB-4994-9C95-2E83B990D243}.Debug.Ora|Any CPU.Build.0 = Debug|Any CPU
 		{BBF9E044-D9EB-4994-9C95-2E83B990D243}.Debug.Ora|x86.ActiveCfg = Debug|Any CPU
